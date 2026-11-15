@@ -1,0 +1,3 @@
+# This site is private to Blockley Lodge No. 6345: please do not crawl or index it.
+User-agent: *
+Disallow: /
